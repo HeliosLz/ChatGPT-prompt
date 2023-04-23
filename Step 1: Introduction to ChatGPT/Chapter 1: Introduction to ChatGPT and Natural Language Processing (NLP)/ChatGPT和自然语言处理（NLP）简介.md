@@ -35,3 +35,25 @@
 **为什么ChatGPT这么酷？**
 
 **你可以让ChatGPT的人工智能机器人做很多事情。从有趣的事情，如获得装饰品的想法、聚会计划等，到更有用的ChatGPT的好处，如帮助你调试代码，甚至为你写代码，事实上，这篇文章的介绍是由ChatGPT写的，而且相当不错。**
+
+**查看ChatGPT的一些很酷的功能，使其脱颖而出。**
+
+1. ****将ChatGPT作为一个Linux终端使用****。
+2. ****调试代码****
+3. ****写代码****
+4. ****Play Tic-Tac-Toe****
+5. ****解释事物****
+6. ****获得人工智能艺术、装饰、派对主题的想法****
+7. ****通过ChatGPT寻找家庭作业和作业问题的答案****
+8. ****使用ChatGPT编写音乐****
+9. ****使用ChatGPT进行翻译****
+10. ****从文本中提取数据****
+11. ****评定作文****
+12. ****Solve Maths Questions****
+
+## 教程
+
+1. **什么是ChatGPT（[链接](https://kozyrkov.medium.com/introducing-chatgpt-aa824ad89623)）**。
+2. **ChatGPT的介绍：基础知识（[链接](https://buildspace.so/notes/intro-to-chatgpt)）**。
+3. **什么是ChatGPT以及如何使用它（[链接](https://www.youtube.com/watch?v=40Kp_fa8vIw)）**。
+4. **原始博客文档（[链接](https://openai.com/blog/chatgpt/)）**
