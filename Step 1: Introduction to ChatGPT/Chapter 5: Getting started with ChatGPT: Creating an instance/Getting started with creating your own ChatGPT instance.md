@@ -11,3 +11,10 @@
 5. **部署你的实例： 一旦你对你的语言模型进行了微调，你可以将你的ChatGPT实例部署到服务器或平台上，如亚马逊网络服务或谷歌云平台。这将使你能够通过API或用户界面与模型进行互动**
 
 6. **测试和改进： 一旦你的ChatGPT实例开始运行，你就可以开始测试和改善其性能。这可能涉及调整语言模型的超参数，提高数据集的质量，或在其他数据上微调模型。**
+
+****创建你自己的聊天室GPT****
+
+[https://www.kaggle.com/code/amirmotefaker/create-your-own-chatgpt](https://www.kaggle.com/code/amirmotefaker/create-your-own-chatgpt)
+
+1. **ChatGPT的高级水平指南（[链接](https://youtu.be/bB7xkRsEq-g)）**
+2. **如何建立自己的ChatGPT（[链接](https://youtu.be/qwM23_kF4v4)）**
